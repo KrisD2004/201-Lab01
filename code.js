@@ -6,7 +6,7 @@ function Questions() {
  alert(`That's a cool ${sport}!`);
 
  let movie = prompt("What's your favorite movie?");
- alert(`${movie} That's a great movie` );
+ alert(`${movie} is a great movie` );
 
  let role = prompt("Who's your role model?");
  alert(`That's cool that your ${role} is your role model!`);
