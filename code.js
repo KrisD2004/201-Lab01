@@ -3,7 +3,7 @@ function Questions() {
  alert(`Nice to meet you ${Name}!` );
 
  let sport = prompt("What's your favorite Sport?");
- alert(`${sport} is a cool!`);
+ alert(`${sport} is a cool sport!`);
 
  let movie = prompt("What's your favorite movie?");
  alert(`${movie} is a great movie` );
