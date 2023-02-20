@@ -3,4 +3,4 @@ let sport = prompt("What's your favorite Sport?")
 let movie = prompt("What's your favorite movie?")
 let role = prompt("Who's your role model?")
 
-alert("Hello" + Name + "my favorite sport is" + sport + "too" + "My favortie Movie")
+alert("Hello" + Name + "my favorite sport is" + sport + "and" + "My favortie Movie is" + movie + "and" + "My role model" + role)
